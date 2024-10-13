@@ -17,4 +17,4 @@ jobs:
       run: |
         cd ${{ github.workspace }}/docs &&\
         pip install mkdocs &&\
-        mkdocs build .
+        mkdocs build
