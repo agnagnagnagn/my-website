@@ -2,6 +2,8 @@
 
 Look! I'm studying MkDocs!
 
+Allo! Configured GitHub Action.
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
